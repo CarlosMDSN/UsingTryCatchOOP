@@ -21,7 +21,7 @@ public class UsingTryCatchOOP {
                     System.out.println("Not a valid number");
                 }
             } catch (NumberFormatException ae) {
-                System.out.println("Input is not a valid number. Please enter another number");
+                System.out.println("InpuT is not a valid number. Please enter another number");
             }
         }
 
